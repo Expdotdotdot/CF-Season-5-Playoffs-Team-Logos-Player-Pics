@@ -1,5 +1,9 @@
 # Team Logos Player Pics
 
+## Player Pics Permalinks
+
+[**Placeholder**](https://raw.githubusercontent.com/Expdotdotdot/CF-Season-5-Playoffs-Team-Logos-Player-Pics/refs/heads/main/Placeholder%20M.png)
+
 ## Team Logo Permalinks
 
 [**Beyond Limits**](https://raw.githubusercontent.com/Expdotdotdot/CF-Season-5-Playoffs-Team-Logos-Player-Pics/refs/heads/main/Beyond%20Limits/Beyond%20Limits.png)
