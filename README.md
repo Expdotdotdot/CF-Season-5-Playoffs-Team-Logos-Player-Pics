@@ -1,6 +1,4 @@
-# Team Logos Player Pics
-
-## IF YOU RUN INTO ANY PLAYER NOT IN THE IMPORT FILE PLEASE USE THE PLACEHOLDER IMAGE BELOW
+# IF YOU RUN INTO ANY PLAYER NOT IN THE IMPORT FILE PLEASE USE THE PLACEHOLDER IMAGE BELOW
 
 [**Placeholder**](https://raw.githubusercontent.com/Expdotdotdot/CF-Season-5-Playoffs-Team-Logos-Player-Pics/refs/heads/main/Placeholder%20M.png)
 
